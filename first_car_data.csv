@@ -1,0 +1,435 @@
+,Car_name,mileage,dealer_name,Service_ratings,Service_reviews,consumer_ratings,consumer_reviews,price,Ext_color,Int_color,drive_train,fuel_type,transmission,engine
+0,2021 Mercedes-Benz GLE 350 Base,14023,Mercedes-Benz of Atlanta Northeast,4.8,1873,4.8,17,67769, Lunar Blue Metallic , Macchiato Beige , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+1,2021 Mercedes-Benz GLA 250 Base 4MATIC,15398,Mercedes-Benz of San Francisco / Smart Center San Francisco,4.0,59,4.9,19,38954, Mountain Gray Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+2,2019 Mercedes-Benz GLS 450 Base 4MATIC,12425,Mercedes-Benz of West Houston,3.7,31,5.0,10,62990, Black , Ginger Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+3,2018 Mercedes-Benz GLA 250 Base 4MATIC,45174,Mercedes-Benz of Rochester,4.7,115,4.5,63,31800, Midnight Black , Shara Beige , All-wheel Drive ,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+4,2021 Mercedes-Benz GLE 350 Base 4MATIC,12838,Star Motor Cars,3.9,55,4.8,17,66880, Polar White , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+5,2019 Mercedes-Benz S-Class S 560 4MATIC,25046,Mercedes-Benz of White Plains,4.9,1638,4.6,14,72060, BL , Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+6,2021 Mercedes-Benz GLE 350 Base,13803,Mercedes-Benz of Pembroke Pines,4.6,1118,4.8,17,65499, Obsidian Black Metallic , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+7,2019 Mercedes-Benz C-Class C 300 4MATIC,31984,Feldmann Imports,4.8,630,4.8,40,34954, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+8,2018 Mercedes-Benz C-Class C 300,27458,Crown Eurocars,4.9,3870,4.8,66,32988, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+9,2019 Mercedes-Benz GLA 250 Base 4MATIC,20017,Fletcher Jones Motorcars of Fremont,4.9,1181,4.6,33,34383, Polar White , Black , All-wheel Drive ,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+10,2019 Mercedes-Benz GLC 350e Base 4MATIC,18235,"Mercedes-Benz Manhattan, Inc.",4.5,452,4.2,11,42811, Black , Black , All-wheel Drive ,Hybrid ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid
+11,2021 Mercedes-Benz GLB 250 Base 4MATIC,13167,Ray Catena Mercedes Benz Freehold,4.7,738,4.5,9,45625, Black , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+12,2020 Mercedes-Benz GLE 350 Base 4MATIC,18995,"Mercedes-Benz Manhattan, Inc.",4.5,452,4.3,75,56184, Mojave Silver Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+13,2019 Mercedes-Benz E-Class E 300,19189,Mercedes Benz of Hoffman Estates,4.7,1112,4.7,47,45999, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+14,2019 Mercedes-Benz GLS 450 Base 4MATIC,27117,Mercedes Benz of Hoffman Estates,4.7,1112,5.0,10,59999, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+15,2019 Mercedes-Benz CLA 250 Base,43453,Mercedes-Benz of El Dorado Hills,4.7,2103,4.1,17,31995, Cocoa Brown Metallic , Shara Beige , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+16,2020 Mercedes-Benz GLE 350 Base 4MATIC,36755,Mercedes-Benz of North Haven,4.8,1231,4.3,75,60997, Selenite Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+17,2019 Mercedes-Benz CLA 250 Base,18655,Mercedes-Benz of Ontario,4.9,1971,4.1,17,29981, Metallic , Black , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+18,2020 Mercedes-Benz GLE 350 Base 4MATIC,42760,Mercedes-Benz of Chantilly,4.6,905,4.3,75,54600, Selenite Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+19,2019 Mercedes-Benz GLC 350e Base 4MATIC,37654,"Mercedes-Benz Manhattan, Inc.",4.5,452,4.2,11,38817, Polar White , Saddle Brown / Black , All-wheel Drive ,Hybrid ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid
+20,2019 Mercedes-Benz GLS 450 Base 4MATIC,27629,"Smith Motor Sales of Haverhill, Inc.",4.8,1355,5.0,10,59303, Lunar Blue , Ginger , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+21,2020 Mercedes-Benz GLE 350 Base 4MATIC,22238,Mercedes-Benz of Westmont,4.6,800,4.3,75,57750, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+22,2018 Mercedes-Benz C-Class C 300,44966,Mercedes-Benz of Austin,4.8,1250,4.8,66,33499, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+23,2019 Mercedes-Benz GLA 250 Base,10278,Crown Eurocars,4.9,3870,4.6,33,35988, Iridium Silver Metallic , Black , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+24,2021 Mercedes-Benz GLE 350 Base 4MATIC,18435,Mercedes-Benz of Chicago,4.7,1168,4.8,17,69994, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+25,2020 Mercedes-Benz GLE 350 Base 4MATIC,19885,Mercedes-Benz of Littleton,4.8,1060,4.3,75,57999, Black , Macchiato , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+26,2018 Mercedes-Benz C-Class C 300,34344,RBM of Atlanta,4.9,1013,4.8,66,34088, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+27,2020 Mercedes-Benz GLC 300 Base 4MATIC,11970,Mercedes-Benz of Kansas City,4.7,707,4.8,35,48988, Graphite Gray Metallic , Magma Gray , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+28,2020 Mercedes-Benz GLE 350 Base 4MATIC,46009,"Mercedes-Benz Manhattan, Inc.",4.5,452,4.3,75,49231, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+29,2020 Mercedes-Benz GLE 350 Base 4MATIC,45498,Mercedes-Benz of Sarasota,4.6,1456,4.3,75,54640, Gray Metallic , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+30,2021 Mercedes-Benz GLB 250 Base 4MATIC,17185,Mercedes-Benz of South Charlotte,4.8,1215,4.5,9,43824, Patagonia Red Metallic , Macchiato Beige , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+31,2021 Mercedes-Benz GLC 300 4MATIC Coupe,14350,Mercedes-Benz of Plano,4.6,1536,4.7,16,65000, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+32,2017 Mercedes-Benz C-Class C 300,35300,Mercedes-Benz of Sacramento,4.3,2656,4.7,104,31399, Gray Metallic , Silk Beige , Rear-wheel Drive ,Gasoline ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+33,2021 Mercedes-Benz C-Class C 300 4MATIC,14906,Mercedes-Benz of Westwood,4.5,426,5.0,4,44498, Polar White , Silk Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+34,2019 Mercedes-Benz GLC 350e Base 4MATIC,49403,Mercedes-Benz of San Jose,4.6,665,4.2,11,37317, Polar White , – , All-wheel Drive ,Hybrid ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid
+35,2021 Mercedes-Benz C-Class C 300 4MATIC,15371,Mercedes-Benz of Silver Spring,4.8,1645,5.0,4,42900, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+36,2019 Mercedes-Benz GLC 300 Base 4MATIC,19615,Mercedes-Benz of Chicago,4.7,1168,4.6,72,40883, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+37,2019 Mercedes-Benz C-Class C 300 4MATIC,31568,Mercedes-Benz of Pittsburgh,4.5,76,4.8,40,35580, Black , Silk Beige / Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+38,2020 Mercedes-Benz C-Class C 300 4MATIC,15447,Euro Motorcars Devon,4.6,307,4.5,13,42904, Black , Silk Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+39,2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,34096,Mercedes-Benz of Silver Spring,4.8,1645,5.0,10,69900, Selenite Gray Metallic , Crystal Gray , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+40,2017 Mercedes-Benz AMG G 63 Base,51015,Mercedes-Benz of Nanuet,4.9,242,4.8,3,115998, designo Magno Night Black , Black , All-wheel Drive ,Gasoline ,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo
+41,2019 Mercedes-Benz C-Class C 300,13258,Mercedes-Benz of Fort Lauderdale,4.6,997,4.8,40,35499, Black , – , RWD ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+42,2019 Mercedes-Benz AMG GLE 43 4MATIC Coupe,45734,Mercedes-Benz of Austin,4.8,1250,5.0,10,65999, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+43,2020 Mercedes-Benz GLC 300 Base 4MATIC,12143,Husker Auto Group,3.6,21,4.8,35,46998, Black , Silk Beige / Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+44,2021 Mercedes-Benz C-Class C 300,16631,Mercedes-Benz of Houston North,4.5,1343,5.0,4,37999, Black , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+45,2020 Mercedes-Benz GLC 300 Base 4MATIC,16399,Mercedes-Benz of Catonsville,4.2,417,4.8,35,46000, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+46,2020 Mercedes-Benz GLC 300 Base 4MATIC,13970,John Sisson Motors,3.3,31,4.8,35,45870, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+47,2020 Mercedes-Benz GLE 350 Base 4MATIC,13866,Mercedes-Benz of Marietta,4.7,473,4.3,75,63441, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+48,2020 Mercedes-Benz GLE 350 Base,23019,Mercedes-Benz of Atlanta Northeast,4.8,1873,4.3,75,61193, Polar White , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+49,2019 Mercedes-Benz GLC 300 Base 4MATIC,38628,Mercedes-Benz of Easton,4.7,670,4.6,72,37876, Blue , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+50,2021 Mercedes-Benz GLB 250 Base 4MATIC,12605,Mercedes-Benz of South Charlotte,4.8,1215,4.5,9,48914, Mountain Gray Metallic , Macchiato Beige , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+51,2019 Mercedes-Benz GLA 250 Base 4MATIC,21811,Mercedes-Benz of Tysons Corner,4.5,842,4.6,33,35495, Mountain Gray Metallic , Black , All-wheel Drive ,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+52,2019 Mercedes-Benz C-Class C 300 4MATIC,38309,Mercedes-Benz of Naperville,4.7,649,4.8,40,33977, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+53,2019 Mercedes-Benz C-Class C 300 4MATIC,31110,Mercedes-Benz of Bellevue,4.5,741,4.8,40,36442, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+54,2018 Mercedes-Benz E-Class E 400 4MATIC,48915,Mercedes-Benz of Chantilly,4.6,905,4.8,64,44800, Iridium Silver Metallic , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+55,2021 Mercedes-Benz GLC 300 Base 4MATIC,16539,Mercedes-Benz of Oakland,4.0,64,4.7,16,40986, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+56,2020 Mercedes-Benz GLE 350 Base,14126,Mercedes-Benz of Austin,4.8,1250,4.3,75,58999, Emerald Green , Macchiato , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+57,2019 Mercedes-Benz C-Class C 300 4MATIC,30947,Mercedes-Benz of Chantilly,4.6,905,4.8,40,36400, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+58,2019 Mercedes-Benz GLA 250 Base,20195,Fletcher Jones Motorcars,4.8,5260,4.6,33,32893, Midnight Black , Black , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+59,2020 Mercedes-Benz GLE 350 Base 4MATIC,21030,Bergstrom Luxury on Victory Lane,4.8,290,4.3,75,59991, Black , Macchiato , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+60,2019 Mercedes-Benz C-Class C 300 4MATIC,11225,Euro Motorcars Devon,4.6,307,4.8,40,39511, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+61,2021 Mercedes-Benz AMG GLE 53 Base,16481,Mercedes-Benz of Ontario,4.9,1971,3.6,16,92983, Polar White , Classic Red , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+62,2020 Mercedes-Benz GLC 300 Base,21675,Mercedes-Benz of McKinney,4.4,320,4.8,35,45698, Iridium Silver Metallic , Gray , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+63,2021 Mercedes-Benz GLB 250 Base,23314,Mercedes-Benz of West Houston,3.7,31,4.5,9,40990, Midnight Black , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+64,2019 Mercedes-Benz GLC 300 Base 4MATIC,24822,Mercedes-Benz of Edison,4.9,3008,4.6,72,39995, Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+65,2021 Mercedes-Benz GLC 300 Base,17151,Mercedes-Benz of Calabasas,4.6,902,4.7,16,42498, Gray , Red , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+66,2019 Mercedes-Benz GLA 250 Base 4MATIC,34086,Mercedes-Benz of Denver,4.5,379,4.6,33,32998, Black , Black , All-wheel Drive ,E85 Flex Fuel ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Flexible Fuel
+67,2021 Mercedes-Benz GLC 300 Base 4MATIC,23095,Mercedes-Benz of North Orlando,4.6,494,4.7,16,48762, Graphite Gray Metallic , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+68,2019 Mercedes-Benz E-Class E 300,24822,Mercedes-Benz of Tysons Corner,4.5,842,4.7,47,45884, Black , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+69,2018 Mercedes-Benz GLE 350 Base,32919,Mercedes-Benz of Fort Lauderdale,4.6,997,4.7,51,39492, Black , – , Rear-wheel Drive ,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+70,2020 Mercedes-Benz C-Class C 300,15455,Mercedes-Benz of Arcadia,4.8,1109,4.5,13,51665, Black , Cranberry Red , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+71,2021 Mercedes-Benz C-Class C 300,18926,Mercedes-Benz of Buckhead,4.6,922,5.0,4,44000, Gray , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+72,2019 Mercedes-Benz C-Class C 300 4MATIC,32895,Mercedes-Benz of Tysons Corner,4.5,842,4.8,40,34884, Steel Gray , Silk , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+73,2021 Mercedes-Benz GLB 250 Base 4MATIC,24722,Mercedes-Benz of Lehigh Valley,4.6,183,4.5,9,42000, Midnight Black , – , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+74,2021 Mercedes-Benz E-Class E 350,18959,Mercedes-Benz of Stevens Creek,4.7,1659,4.7,7,50999, Graphite Gray Metallic , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+75,2022 Mercedes-Benz GLC 300 Base 4MATIC,1897,Mercedes-Benz of Chantilly,4.6,905,3.9,1,49800, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+76,2022 Mercedes-Benz GLC 300 Base 4MATIC,2865,Mercedes-Benz of Chantilly,4.6,905,3.9,1,49600, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+77,2021 Mercedes-Benz GLA 250 Base 4MATIC,18035,Mercedes-Benz of Stevens Creek,4.7,1659,4.9,19,41492, Cosmos Black Metallic , – , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+78,2019 Mercedes-Benz C-Class C 300 4MATIC,33506,Mercedes-Benz of Massapequa,4.8,1724,4.8,40,37895, Black , AMG Cranberry Red , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+79,2021 Mercedes-Benz E-Class E 350,16977,Mercedes-Benz of Stevens Creek,4.7,1659,4.7,7,53937, Cirrus Silver Metallic , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+80,2021 Mercedes-Benz GLC 300 Base 4MATIC,12359,Mercedes-Benz of Austin,4.8,1250,4.7,16,54999, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+81,2021 Mercedes-Benz GLC 300 Base,15041,Mercedes-Benz of Tuscaloosa,4.5,14,4.7,16,48987, Polar White , Silk Beige / Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+82,2020 Mercedes-Benz GLE 350 Base 4MATIC,20208,Mercedes-Benz of Owings Mills,4.9,2113,4.3,75,58900, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+83,2018 Mercedes-Benz GLS 450 Base 4MATIC,36240,Silver Star Motors,4.6,685,4.8,13,50383, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+84,2019 Mercedes-Benz C-Class C 300 4MATIC,14760,Mercedes Benz of Atlantic City,4.6,1090,4.8,40,39556, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+85,2019 Mercedes-Benz C-Class C 300 4MATIC,38957,Mercedes-Benz of Hanover,4.6,390,4.8,40,36900, Graphite Gray Metallic , Magma Grey , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+86,2021 Mercedes-Benz GLB 250 Base 4MATIC,12449,Mercedes-Benz of Springfield,4.9,94,4.5,9,44990, Iridium Silver Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+87,2019 Mercedes-Benz AMG E 63 S 4MATIC,19351,House of Imports,4.7,1269,5.0,2,99980, Polar White , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+88,2018 Mercedes-Benz C-Class C 300,40032,Mercedes-Benz Of Tampa,4.7,3485,4.8,66,34700, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+89,2019 Mercedes-Benz C-Class C 300 4MATIC,23851,Mercedes-Benz of Springfield,4.9,94,4.8,40,36940, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+90,2021 Mercedes-Benz GLE 350 Base 4MATIC,19810,Mercedes Benz of Hoffman Estates,4.7,1112,4.8,17,65999, Emerald Green Metallic , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+91,2020 Mercedes-Benz E-Class E 450 4MATIC,19150,Mercedes-Benz of Atlanta Northeast,4.8,1873,5.0,10,61623, Polar White , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+92,2019 Mercedes-Benz C-Class C 300 4MATIC,12202,Mercedes-Benz of Arlington,4.8,2285,4.8,40,37995, Polar White , Silk Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+93,2019 Mercedes-Benz GLS 450 4MATIC,29487,Mercedes-Benz of Westwood,4.5,426,5.0,10,55555, Iridium Silver Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+94,2018 Mercedes-Benz C-Class C 300 4MATIC,18754,Euro Motorcars Inc,4.6,587,4.8,66,39881, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+95,2021 Mercedes-Benz AMG GLE 53 Base,24792,Mercedes-Benz of Edison,4.9,3008,3.6,16,93989, Selenite Gray , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+96,2020 Mercedes-Benz CLA 250 Base,27589,Mercedes-Benz of Pleasanton,2.5,55,5.0,9,38927, Cosmos Black Metallic , – , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+97,2020 Mercedes-Benz S-Class S 450,17483,Autobahn Motors,4.7,923,4.9,7,69997, Gray , Beige , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+98,2019 Mercedes-Benz C-Class C 300,23264,Mercedes-Benz of Clearwater,4.5,389,4.8,40,40416, – , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+99,2021 Mercedes-Benz C-Class C 300 4MATIC,12352,Mercedes-Benz of Westwood,4.5,426,5.0,4,44799, Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+100,2021 Mercedes-Benz C-Class C 300,11007,Mercedes-Benz of Miami,4.6,1037,5.0,4,41419, Black , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+101,2020 Mercedes-Benz GLA 250 Base,14510,Mercedes-Benz of Miami,4.6,1037,4.9,13,34995, Polar White , – , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+102,2021 Mercedes-Benz GLC 300 Base 4MATIC,13004,Mercedes Benz of Hoffman Estates,4.7,1112,4.7,16,50999, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+103,2021 Mercedes-Benz C-Class C 300 4MATIC,11451,Mercedes-Benz of Westwood,4.5,426,5.0,4,44905, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+104,2020 Mercedes-Benz CLA 250 Base,13588,Mercedes-Benz of San Jose,4.6,665,5.0,9,40595, Polar White , – , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+105,2020 Mercedes-Benz GLE 350 Base,18607,Mercedes-Benz of Birmingham,4.9,811,4.3,75,61439, Emerald Green Metallic , Macchiato , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+106,2020 Mercedes-Benz GLE 350 Base,31229,Mercedes-Benz of Birmingham,4.9,811,4.3,75,58994, Iridium Silver Metallic , Macchiato , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+107,2020 Mercedes-Benz GLC 300 Base 4MATIC,24419,Mercedes-Benz of Portland,4.6,1331,4.8,35,43417, Iridium Silver Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+108,2021 Mercedes-Benz GLA 250 Base,15911,Mercedes-Benz of Augusta,4.7,232,4.9,19,43493, Metallic , Grey / Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+109,2019 Mercedes-Benz GLC 300 Base 4MATIC,18069,Mercedes-Benz of Bellevue,4.5,741,4.6,72,40995, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+110,2020 Mercedes-Benz GLS 580 Base 4MATIC,18700,Mercedes-Benz of South Orlando,4.7,1239,4.8,2,104788, Black , Macchiato Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+111,2019 Mercedes-Benz C-Class C 300 4MATIC,19603,Mercedes-Benz of Silver Spring,4.8,1645,4.8,40,56900, Black , AMG Saddle Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+112,2021 Mercedes-Benz GLC 300 Base 4MATIC,13669,Mercedes-Benz of Beaverton,4.5,2347,4.7,16,51419, Polar White , Silk Beige / Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+113,2018 Mercedes-Benz GLE 350 Base,46726,Mercedes-Benz of Austin,4.8,1250,4.7,51,41999, Polar White , Black , Rear-wheel Drive ,Gasoline ,7-Speed Automatic,3.5L V6 24V GDI DOHC
+114,2020 Mercedes-Benz GLE 350 Base 4MATIC,52199,Mercedes-Benz of Wilmington,4.7,217,4.3,75,51900, Lunar Blue Metallic , Espresso Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+115,2021 Mercedes-Benz GLA 250 Base 4MATIC,14001,Mercedes-Benz of Laguna Niguel,4.8,1660,4.9,19,43556, Polar White , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+116,2020 Mercedes-Benz GLE 450 AWD 4MATIC,24900,Mercedes-Benz of Wesley Chapel,4.5,600,4.2,27,62550, Emerald Green Metallic , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo
+117,2021 Mercedes-Benz GLE 350 Base,12427,Mercedes-Benz of Pembroke Pines,4.6,1118,4.8,17,60633, Gray , – , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+118,2022 Mercedes-Benz GLC 300 Base 4MATIC,6499,Mercedes-Benz of Fort Mitchell,4.8,585,3.9,1,46230, Polar White , Silk Beige / Black , All-wheel Drive ,Gasoline ,Automatic,2.0L I4 16V GDI DOHC Turbo
+119,2019 Mercedes-Benz AMG E 63 S 4MATIC,15113,Ray Catena Mercedes Benz Freehold,4.7,738,5.0,2,106999, Gray Metallic , Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+120,2020 Mercedes-Benz GLA 250 Base 4MATIC,12969,Mercedes-Benz of Walnut Creek,4.6,880,4.9,13,35988, White , Black , All-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+121,2019 Mercedes-Benz C-Class C 300,19801,Mercedes-Benz of San Francisco / Smart Center San Francisco,4.0,59,4.8,40,33769, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+122,2019 Mercedes-Benz GLS 450 Base 4MATIC,31850,Autohaus on Edens,4.7,1925,5.0,10,59835, Selenite Gray Metallic , Crystal Gray , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+123,2018 Mercedes-Benz C-Class C 300,38184,Mercedes-Benz Of Tampa,4.7,3485,4.8,66,29740, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+124,2022 Mercedes-Benz GLC 300 Base 4MATIC,7502,Mercedes-Benz of Fort Mitchell,4.8,585,3.9,1,47814, Lunar Blue Metallic , Silk Beige / Black , All-wheel Drive ,Gasoline ,Automatic,2.0L I4 16V GDI DOHC Turbo
+125,2020 Mercedes-Benz C-Class C 300,21386,Mercedes-Benz of Atlanta Northeast,4.8,1873,4.5,13,40681, Mojave Silver Metallic , Magma Gray , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+126,2020 Mercedes-Benz GLC 300 Base,20820,Mercedes-Benz of Atlanta Northeast,4.8,1873,4.8,35,45775, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+127,2019 Mercedes-Benz GLS 450 4MATIC,35623,Mercedes-Benz of Manchester,4.5,574,5.0,10,55989, Polar White , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+128,2019 Mercedes-Benz GLS 450 Base 4MATIC,8270,"Mercedes-Benz Manhattan, Inc.",4.5,452,5.0,10,60897, Selenite Gray Metallic , Saddle Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+129,2019 Mercedes-Benz GLS 450 Base 4MATIC,31714,Mercedes-Benz of Silver Spring,4.8,1645,5.0,10,59900, Obsidian Black Metallic , Porcelain / Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+130,2019 Mercedes-Benz CLA 250 Base,30820,Mercedes-Benz of Miami,4.6,1037,4.1,17,30995, Polar White , – , Front-wheel Drive ,Gasoline ,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+131,2021 Mercedes-Benz GLB 250 Base 4MATIC,10653,Mercedes-Benz of Stevens Creek,4.7,1659,4.5,9,37927, Midnight Black , – , All-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo
+132,2020 Mercedes-Benz GLC 300 4MATIC Coupe,31083,Mercedes-Benz of Owings Mills,4.9,2113,4.8,35,56970, Graphite Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+133,2020 Mercedes-Benz GLE 350 Base 4MATIC,52283,Mercedes-Benz of South Charlotte,4.8,1215,4.3,75,55814, Black , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+134,2017 Mercedes-Benz C-Class C 300,45290,Mercedes-Benz of Plano,4.6,1536,4.7,104,29750, Polar White , Black , Rear-wheel Drive ,Gasoline ,7-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+135,2020 Mercedes-Benz GLE 350 Base,23930,Mercedes-Benz of Atlanta Northeast,4.8,1873,4.3,75,60958, Black , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+136,2018 Mercedes-Benz C-Class C 300 4MATIC,41941,Mercedes-Benz of Naperville,4.7,649,4.8,66,30750, designo Cardinal Red Metallic , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+137,2020 Mercedes-Benz GLC 300 Base 4MATIC,16025,Motor Werks - Barrington Auto Mall,4.8,4870,4.8,35,45991, Graphite Gray Metallic , Cranberry Red , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+138,2021 Mercedes-Benz C-Class C 300 4MATIC,10180,Mercedes-Benz of Rochester,3.1,4,5.0,4,43397, Polar White , AMG Silk Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+139,2020 Mercedes-Benz C-Class C 300 4MATIC,11442,Mercedes-Benz of Catonsville,4.2,417,4.5,13,44000, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+140,2019 Mercedes-Benz GLC 300 Base 4MATIC,14720,Mercedes-Benz of San Jose,4.6,665,4.6,72,38474, Black , – , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+141,2021 Mercedes-Benz C-Class C 300,16135,Mercedes-Benz of Atlanta Northeast,4.8,1873,5.0,4,52886, Polar White , Black , Rear-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+142,2019 Mercedes-Benz GLS 450 Base 4MATIC,27814,Mercedes-Benz of Columbia,4.9,897,5.0,10,62988, Black , Espresso Brown , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo
+143,2020 Mercedes-Benz C-Class C 300 4MATIC,18644,Mercedes-Benz of Edison,4.9,3008,4.5,13,42995, Polar White , Silk Beige , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+144,2019 Mercedes-Benz AMG G 63 Base,22940,Mercedes Benz of Hoffman Estates,4.7,1112,4.9,7,192999, Graphite , Platinum White , All-wheel Drive ,Gasoline ,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo
+145,2019 Mercedes-Benz GLC 300 Base 4MATIC,38634,Mercedes-Benz of Springfield,4.9,94,4.6,72,37490, Selenite Gray Metallic , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+146,2018 Toyota RAV4 XLE,49457,Maita Toyota,4.6,4332,4.8,770,28999, Silver Sky Metallic , Ash , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+147,2021 Toyota Tundra Limited,15183,Toyota of Bowie,4.5,478,4.9,32,54945, Midnight Black Metallic , Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+148,2020 Toyota Corolla LE,44811,Roseville Toyota,4.5,3787,4.7,233,25988, Ice , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+149,2021 Toyota Corolla LE,36965,Peter Boulware Toyota,4.6,1239,4.8,74,23591, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+150,2020 Toyota RAV4 XLE,69884,Stevinson Toyota East,4.8,1573,4.7,166,31581, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+151,2020 Toyota Corolla SE,24830,Westbury Toyota,4.7,2170,4.7,233,25888, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+152,2021 Toyota Tacoma TRD Off Road,20229,Findlay Toyota,4.6,830,4.8,85,46988, Black , Black , Four-wheel Drive ,Gasoline ,6-Speed,3.5L V6 24V PDI DOHC
+153,2020 Toyota Camry SE Nightshade,60792,Big Two Toyota of Chandler,4.0,339,4.8,142,32910, Celestial Silver Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+154,2020 Toyota RAV4 XLE,13770,Gettel Toyota,4.5,1496,4.7,166,33577, Silver Sky Metallic , Gray , All-wheel Drive ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+155,2019 Toyota RAV4 LE,31137,Berge Toyota,4.8,961,4.6,443,31987, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+156,2019 Toyota RAV4 LE,27876,Lipton Toyota,4.4,753,4.6,443,27827, Blue , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+157,2020 Toyota Camry SE,20393,Toyota Hyundai of Southern Maryland,4.7,639,4.8,142,31294, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+158,2021 Toyota Highlander XSE,13501,Carlson Toyota,4.6,566,4.9,93,51885, Midnight Black Metallic , Red , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+159,2021 Toyota Corolla LE,21764,Larry H. Miller Toyota Peoria,4.7,2306,4.8,74,27495, Classic Silver Metallic , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+160,2019 Toyota RAV4 LE,33417,Toyota of Nashua,4.6,1347,4.6,443,29900, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+161,2019 Toyota Mirai Base,25038,Toyota Sunnyvale,4.8,6582,2.5,3,20992, Crystal White , Ocean Blue , Front-wheel Drive ,Electric ,1-Speed Automatic,Electric
+162,2022 Toyota Corolla LE,12904,North Park Toyota of San Antonio,4.8,1808,5.0,2,28981, Ruby Flare Pearl , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+163,2019 Toyota Corolla LE,40597,Toyota of Lincoln Park,4.2,380,4.8,167,19734, Black Sand Pearl , Almond , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+164,2020 Toyota Camry SE,42350,Serra Toyota,4.9,2968,4.8,142,29900, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+165,2019 Toyota Camry LE,34787,Palm Beach Toyota,4.7,688,4.8,309,24594, Predawn Gray Mica , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+166,2018 Toyota RAV4 XLE,30884,Jim Ellis Toyota of McDonough,4.7,4515,4.8,770,29491, Galactic Aqua , Black , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+167,2021 Toyota Corolla LE,18266,Big Two Toyota of Chandler,4.0,339,4.8,74,27975, Classic Silver Metallic , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+168,2021 Toyota Camry XSE,11285,Toyota of Brookfield,4.7,1664,4.8,69,36994, Wind Chill Pearl / Midnight Black Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+169,2021 Toyota Corolla LE,33223,Anderson Toyota,4.0,33,4.8,74,26929, Blueprint , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+170,2021 Toyota Corolla LE,11105,AutoNation Toyota Pinellas Park,4.6,2263,4.8,74,22985, Black Sand Pearl , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+171,2021 Toyota Highlander Limited,19235,Toyota of Greenville,4.8,962,4.9,93,47792, – , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+172,2019 Toyota Highlander XLE,10752,Toyota Direct,3.9,566,4.6,363,37500, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+173,2021 Toyota Camry SE,17633,Hiland Toyota,4.9,1728,4.8,69,33975, Midnigh Black , Black , – ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+174,2020 Toyota RAV4 XLE,64804,Toyota of Tampa Bay on Fletcher,4.8,3245,4.7,166,26673, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+175,2020 Toyota Tacoma TRD Sport,13425,Berge Toyota,4.8,961,4.7,123,46562, Magnetic Gray Metallic , Cement , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V PDI DOHC
+176,2018 Toyota RAV4 XLE,49457,Maita Toyota,4.6,4332,4.8,770,28999, Silver Sky Metallic , Ash , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+177,2021 Toyota Tundra Limited,15183,Toyota of Bowie,4.5,478,4.9,32,54945, Midnight Black Metallic , Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+178,2020 Toyota Corolla LE,44811,Roseville Toyota,4.5,3787,4.7,233,25988, Ice , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+179,2021 Toyota Corolla LE,36965,Peter Boulware Toyota,4.6,1239,4.8,74,23591, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+180,2020 Toyota RAV4 XLE,69884,Stevinson Toyota East,4.8,1573,4.7,166,31581, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+181,2020 Toyota Corolla SE,24830,Westbury Toyota,4.7,2170,4.7,233,25888, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+182,2021 Toyota Tacoma TRD Off Road,20229,Findlay Toyota,4.6,830,4.8,85,46988, Black , Black , Four-wheel Drive ,Gasoline ,6-Speed,3.5L V6 24V PDI DOHC
+183,2020 Toyota Camry SE Nightshade,60792,Big Two Toyota of Chandler,4.0,339,4.8,142,32910, Celestial Silver Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+184,2020 Toyota RAV4 XLE,13770,Gettel Toyota,4.5,1496,4.7,166,33577, Silver Sky Metallic , Gray , All-wheel Drive ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+185,2019 Toyota RAV4 LE,31137,Berge Toyota,4.8,961,4.6,443,31987, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+186,2019 Toyota RAV4 LE,27876,Lipton Toyota,4.4,753,4.6,443,27827, Blue , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+187,2020 Toyota Camry SE,20393,Toyota Hyundai of Southern Maryland,4.7,639,4.8,142,31294, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+188,2021 Toyota Highlander XSE,13501,Carlson Toyota,4.6,566,4.9,93,51885, Midnight Black Metallic , Red , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+189,2021 Toyota Corolla LE,21764,Larry H. Miller Toyota Peoria,4.7,2306,4.8,74,27495, Classic Silver Metallic , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+190,2019 Toyota RAV4 LE,33417,Toyota of Nashua,4.6,1347,4.6,443,29900, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+191,2019 Toyota Mirai Base,25038,Toyota Sunnyvale,4.8,6582,2.5,3,20992, Crystal White , Ocean Blue , Front-wheel Drive ,Electric ,1-Speed Automatic,Electric
+192,2022 Toyota Corolla LE,12904,North Park Toyota of San Antonio,4.8,1808,5.0,2,28981, Ruby Flare Pearl , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+193,2019 Toyota Corolla LE,40597,Toyota of Lincoln Park,4.2,380,4.8,167,19734, Black Sand Pearl , Almond , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+194,2020 Toyota Camry SE,42350,Serra Toyota,4.9,2968,4.8,142,29900, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+195,2019 Toyota Camry LE,34787,Palm Beach Toyota,4.7,688,4.8,309,24594, Predawn Gray Mica , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+196,2018 Toyota RAV4 XLE,30884,Jim Ellis Toyota of McDonough,4.7,4515,4.8,770,29491, Galactic Aqua , Black , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+197,2021 Toyota Corolla LE,18266,Big Two Toyota of Chandler,4.0,339,4.8,74,27975, Classic Silver Metallic , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+198,2021 Toyota Camry XSE,11285,Toyota of Brookfield,4.7,1664,4.8,69,36994, Wind Chill Pearl / Midnight Black Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+199,2021 Toyota Corolla LE,33223,Anderson Toyota,4.0,33,4.8,74,26929, Blueprint , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+200,2021 Toyota Corolla LE,11105,AutoNation Toyota Pinellas Park,4.6,2263,4.8,74,22985, Black Sand Pearl , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+201,2021 Toyota Highlander Limited,19235,Toyota of Greenville,4.8,962,4.9,93,47792, – , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+202,2019 Toyota Highlander XLE,10752,Toyota Direct,3.9,566,4.6,363,37500, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+203,2021 Toyota Camry SE,17633,Hiland Toyota,4.9,1728,4.8,69,33975, Midnigh Black , Black , – ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+204,2020 Toyota RAV4 XLE,64804,Toyota of Tampa Bay on Fletcher,4.8,3245,4.7,166,26673, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+205,2020 Toyota Tacoma TRD Sport,13425,Berge Toyota,4.8,961,4.7,123,46562, Magnetic Gray Metallic , Cement , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V PDI DOHC
+206,2018 Toyota RAV4 XLE,49457,Maita Toyota,4.6,4332,4.8,770,28999, Silver Sky Metallic , Ash , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+207,2021 Toyota Tundra Limited,15183,Toyota of Bowie,4.5,478,4.9,32,54945, Midnight Black Metallic , Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+208,2020 Toyota Corolla LE,44811,Roseville Toyota,4.5,3787,4.7,233,25988, Ice , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+209,2021 Toyota Corolla LE,36965,Peter Boulware Toyota,4.6,1239,4.8,74,23591, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+210,2020 Toyota RAV4 XLE,69884,Stevinson Toyota East,4.8,1573,4.7,166,31581, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+211,2020 Toyota Corolla SE,24830,Westbury Toyota,4.7,2170,4.7,233,25888, Black Sand Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+212,2021 Toyota Tacoma TRD Off Road,20229,Findlay Toyota,4.6,830,4.8,85,46988, Black , Black , Four-wheel Drive ,Gasoline ,6-Speed,3.5L V6 24V PDI DOHC
+213,2020 Toyota Camry SE Nightshade,60792,Big Two Toyota of Chandler,4.0,339,4.8,142,32910, Celestial Silver Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+214,2020 Toyota RAV4 XLE,13770,Gettel Toyota,4.5,1496,4.7,166,33577, Silver Sky Metallic , Gray , All-wheel Drive ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+215,2019 Toyota RAV4 LE,31137,Berge Toyota,4.8,961,4.6,443,31987, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+216,2019 Toyota RAV4 LE,27876,Lipton Toyota,4.4,753,4.6,443,27827, Blue , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+217,2020 Toyota Camry SE,20393,Toyota Hyundai of Southern Maryland,4.7,639,4.8,142,31294, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+218,2021 Toyota Highlander XSE,13501,Carlson Toyota,4.6,566,4.9,93,51885, Midnight Black Metallic , Red , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+219,2021 Toyota Corolla LE,21764,Larry H. Miller Toyota Peoria,4.7,2306,4.8,74,27495, Classic Silver Metallic , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+220,2019 Toyota RAV4 LE,33417,Toyota of Nashua,4.6,1347,4.6,443,29900, Silver Sky Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+221,2019 Toyota Mirai Base,25038,Toyota Sunnyvale,4.8,6582,2.5,3,20992, Crystal White , Ocean Blue , Front-wheel Drive ,Electric ,1-Speed Automatic,Electric
+222,2022 Toyota Corolla LE,12904,North Park Toyota of San Antonio,4.8,1808,5.0,2,28981, Ruby Flare Pearl , Light Gray , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+223,2019 Toyota Corolla LE,40597,Toyota of Lincoln Park,4.2,380,4.8,167,19734, Black Sand Pearl , Almond , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+224,2020 Toyota Camry SE,42350,Serra Toyota,4.9,2968,4.8,142,29900, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+225,2019 Toyota Camry LE,34787,Palm Beach Toyota,4.7,688,4.8,309,24594, Predawn Gray Mica , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+226,2018 Toyota RAV4 XLE,30884,Jim Ellis Toyota of McDonough,4.7,4515,4.8,770,29491, Galactic Aqua , Black , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+227,2021 Toyota Corolla LE,18266,Big Two Toyota of Chandler,4.0,339,4.8,74,27975, Classic Silver Metallic , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+228,2021 Toyota Camry XSE,11285,Toyota of Brookfield,4.7,1664,4.8,69,36994, Wind Chill Pearl / Midnight Black Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+229,2021 Toyota Corolla LE,33223,Anderson Toyota,4.0,33,4.8,74,26929, Blueprint , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+230,2021 Toyota Corolla LE,11105,AutoNation Toyota Pinellas Park,4.6,2263,4.8,74,22985, Black Sand Pearl , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+231,2021 Toyota Highlander Limited,19235,Toyota of Greenville,4.8,962,4.9,93,47792, – , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+232,2019 Toyota Highlander XLE,10752,Toyota Direct,3.9,566,4.6,363,37500, Midnight Black Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+233,2021 Toyota Camry SE,17633,Hiland Toyota,4.9,1728,4.8,69,33975, Midnigh Black , Black , – ,Gasoline ,Automatic,Regular Unleaded I-4 2.5 L/152
+234,2020 Toyota RAV4 XLE,64804,Toyota of Tampa Bay on Fletcher,4.8,3245,4.7,166,26673, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+235,2020 Toyota Tacoma TRD Sport,13425,Berge Toyota,4.8,961,4.7,123,46562, Magnetic Gray Metallic , Cement , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V PDI DOHC
+236,2019 Toyota RAV4 Limited,15304,Fred Anderson Toyota of Asheville,4.0,382,4.6,443,38932, Ruby Flare Pearl , Nutmeg , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+237,2021 Toyota Corolla LE,34308,Desert Toyota,4.4,469,4.8,74,26999, Black , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+238,2020 Toyota RAV4 XLE,10742,AutoNation Toyota Tempe,4.6,2390,4.7,166,36475, Magnetic Gray Metallic , – , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+239,2020 Toyota Camry SE,15294,Wolfchase Toyota,4.4,294,4.8,142,32040, Black , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+240,2019 Toyota 4Runner Limited,59715,Rudy Luther Toyota,4.8,3399,4.8,189,43495, Midnight Black Metallic , Redwood , Four-wheel Drive ,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+241,2021 Toyota Camry SE,17775,Dublin Toyota,4.4,135,4.8,69,32788, White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+242,2018 Toyota RAV4 XLE,44021,Camelback Toyota,4.3,788,4.8,770,27888, Silver , Ash , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+243,2020 Toyota Camry LE,16188,Toyota Hyundai of Southern Maryland,4.7,639,4.8,142,32000, Galactic Aqua , Macadamia , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+244,2018 Toyota RAV4 XLE,46636,Luther Brookdale Toyota,4.8,2382,4.8,770,29795, Black Currant Metallic , Black , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+245,2021 Toyota RAV4 LE,10953,Toyota of Tampa Bay on Fletcher,4.8,3245,4.8,102,29562, Ruby Flare Pearl , Ash , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+246,2021 Toyota Corolla LE,23023,Cavender Toyota,4.6,774,4.8,74,26891, CELESTITE , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+247,2019 Toyota 4Runner Limited,36348,Nalley Toyota of Roswell,4.5,1413,4.8,189,45991, Midnight Black Metallic , Black Graphite , Rear-wheel Drive ,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+248,2018 Toyota RAV4 Limited,13368,Maplewood Toyota,4.9,3954,4.8,770,37977, Ruby Flare Pearl , Ash , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+249,2019 Toyota Corolla LE,43816,Oxmoor Toyota,4.5,602,4.8,167,21993, Slate Metallic , Almond , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+250,2021 Toyota Camry SE,126,Dublin Toyota,4.4,135,4.8,69,35788, White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+251,2020 Toyota RAV4 XLE,65743,Dolan Toyota,4.6,1288,4.7,166,32777, Ice , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+252,2018 Toyota RAV4 LE,48075,Team One Toyota,3.3,19,4.8,770,24497, Super White , Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+253,2021 Toyota RAV4 LE,12712,Nashville Toyota North,4.4,226,4.8,102,36389, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+254,2019 Toyota Camry SE,18903,East Madison Toyota,4.7,1138,4.8,309,29722, Silver , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+255,2021 Toyota Highlander XLE,16650,Beaver Toyota Cumming,4.8,1197,4.9,93,48992, Moon Dust , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+256,2019 Toyota RAV4 LE,22618,Heiser Toyota,4.7,4071,4.6,443,31988, Super White , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+257,2018 Toyota RAV4 XLE,20132,Roseville Toyota,4.5,3787,4.8,770,34999, Black Onyx , Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+258,2021 Toyota Corolla LE,15027,Cavender Toyota,4.6,774,4.8,74,28891, CELESTITE , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+259,2019 Toyota 4Runner Limited,36003,Dublin Toyota,4.4,135,4.8,189,47998, – , – , Four-wheel Drive ,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+260,2018 Toyota RAV4 XLE,24164,Acton Toyota of Littleton,4.8,3682,4.8,770,29896, Galactic Aqua , Ash , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+261,2019 Toyota RAV4 LE,32215,Parkway Toyota of Boston,4.7,1105,4.6,443,28955, Super White , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+262,2020 Toyota Corolla SE,18523,Gateway Toyota,4.6,605,4.7,233,27614, Blizzard Pearl , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+263,2021 Toyota RAV4 XLE Premium,17430,Peter Boulware Toyota,4.6,1239,4.8,102,38609, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+264,2020 Toyota RAV4 LE,40778,Brent Brown Toyota,4.6,5669,4.7,166,32990, Silver , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+265,2020 Toyota Camry SE,11540,Passport Toyota,4.6,399,4.8,142,34214, White , Ash , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+266,2019 Toyota RAV4 LE,20000,AutoNation Toyota Tempe,4.6,2390,4.6,443,30475, Midnight Black Metallic , – , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+267,2019 Toyota RAV4 XLE,19933,Don Jacobs Toyota,4.8,2922,4.6,443,34510, Ruby Flare Pearl , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+268,2021 Toyota Camry SE,24087,Cavender Toyota,4.6,774,4.8,69,36891, Midnight Black , – , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+269,2020 Toyota Corolla SE,12159,AutoNation Toyota Las Vegas,4.6,2018,4.7,233,27668, Barcelona Red Metallic , – , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+270,2018 Toyota RAV4 XLE,35942,Nalley Toyota Stonecrest,4.5,437,4.8,770,29750, Silver Sky Metallic , Ash , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+271,2020 Toyota Camry SE,16092,Roseville Toyota,4.5,3787,4.8,142,32988, Ice , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+272,2021 Toyota Tundra SR5,39525,North Park Toyota of San Antonio,4.8,1808,4.9,32,44891, 39525 , Graphite , Rear-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+273,2020 Toyota RAV4 XLE,65900,Don McGill Toyota of Houston,4.4,962,4.7,166,31399, Magnetic Gray , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+274,2020 Toyota RAV4 LE,21864,Nashville Toyota North,4.4,226,4.7,166,34790, Super White , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+275,2019 Toyota RAV4 LE,16965,Tansky Sawmill Toyota,4.6,846,4.6,443,30947, Silver Sky Metallic , – , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+276,2019 Toyota RAV4 XLE,61286,Toyota of Merrillville,4.3,132,4.6,443,29988, Blue Flame , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+277,2019 Toyota RAV4 LE,48393,Stevinson Toyota West,4.9,5633,4.6,443,29740, Ruby Flare Pearl , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+278,2018 Toyota RAV4 XLE,64013,Camelback Toyota,4.3,788,4.8,770,27404, Red , Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,2.5L I4 16V MPFI DOHC
+279,2019 Toyota RAV4 LE,23513,Right Toyota,4.6,1811,4.6,443,25999, Magnetic Gray Metallic , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+280,2018 Toyota RAV4 Hybrid XLE,45548,Toyota of Lake City,4.0,72,4.8,115,37000, Magnetic Gray Metallic , Black , All-wheel Drive ,Hybrid ,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid
+281,2019 Toyota Tundra SR5,16982,Palm Beach Toyota,4.7,688,4.8,126,44998, Super White , Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+282,2020 Toyota Corolla SE,19204,Toyota of Massapequa,3.1,126,4.7,233,24431, White , Black , Front-wheel Drive ,Gasoline ,Automatic CVT,2.0L I4 16V PDI DOHC
+283,2020 Toyota RAV4 XLE,64055,Fred Anderson Toyota of Asheville,4.0,382,4.7,166,31908, Super White , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+284,2020 Toyota RAV4 XLE,13822,Malloy Toyota,3.2,41,4.7,166,38797, Ruby Flare Pearl , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+285,2019 Toyota RAV4 XLE,44123,Toyota Direct,3.9,566,4.6,443,29500, Ruby Flare Pearl , Gray , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+286,2019 Toyota RAV4 LE,13385,Koons Tysons Toyota,4.4,1443,4.6,443,30000, Ruby Flare Pearl , Nutmeg , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+287,2021 Toyota Corolla LE,21437,Jones Used Cars,4.6,212,4.8,74,26998, Blue , – , Front-wheel Drive ,Gasoline ,Automatic CVT,1.8L I4 16V MPFI DOHC
+288,2019 Toyota RAV4 XLE,20079,Nalley Toyota of Roswell,4.5,1413,4.6,443,35947, Super White , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+289,2021 Toyota Tacoma SR5,16461,Toyota of Plano,4.8,5519,4.8,85,40061, Super White , – , Rear-wheel Drive ,Gasoline ,6-Speed Automatic,2.7L I4 16V MPFI DOHC
+290,2018 Toyota 4Runner Limited 4WD,55920,Longo Toyota of Prosper,4.9,824,4.8,253,41571, White , Black Graphite , Four-wheel Drive ,Gasoline ,5-Speed Automatic,4.0L V6 24V MPFI DOHC
+291,2021 Toyota Camry SE,40248,Wolfchase Toyota,4.4,294,4.8,69,31051, Red , Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+292,2020 Toyota Prius LE,47344,Toyota of Lincoln Park,4.2,380,4.7,18,26353, Red , Black , Front-wheel Drive ,Hybrid ,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid
+293,2020 Toyota RAV4 LE,18835,DCH Freehold Toyota,4.8,2626,4.7,166,32483, Magnetic Gray Metallic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+294,2021 Toyota RAV4 XLE,37160,Sheehy Toyota of Stafford,4.8,1431,4.8,102,32981, White , Ash , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+295,2021 Toyota RAV4 Limited,19641,Avondale Toyota,4.9,2311,4.8,102,45481, Magnetic Gray Metallic , – , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.5L I4 16V PDI DOHC
+296,2020 Ford F-150 XLT,34824,LaFontaine Ford Lincoln,3.9,36,4.8,219,39015, Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+297,2020 Ford Expedition Max Limited,72916,Maxwell Ford,4.3,1216,4.5,15,44188, Agate Black , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+298,2019 Ford Edge Titanium,36626,Larson Ford,4.9,1087,4.7,193,34621, Ruby Red , Ebony , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+299,2020 Ford Fusion Titanium,66125,Hennessy Ford Lincoln Atlanta,4.5,1346,4.8,70,24600, Iconic Silver Metallic , Ebony , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+300,2019 Ford EcoSport SE,34194,San Tan Ford,4.7,1938,4.5,106,21833, Lightning Blue , Medium Stone , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.0L I3 12V GDI DOHC Turbo
+301,2020 Ford F-150 XLT,17779,Gene Messer Ford of Lubbock,4.4,758,4.8,219,48409, Stone Gray Metallic , Medium Earth Gray , Four-wheel Drive ,Gasoline ,Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+302,2018 Ford Escape Titanium,26306,Luther North Country Ford Lincoln,4.8,3945,4.7,578,29995, Shadow Black , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+303,2019 Ford F-250 Lariat,44818,Rochester Ford,4.6,284,4.5,100,53998, Black , Black , Four-wheel Drive ,E85 Flex Fuel ,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel
+304,2019 Ford Explorer XLT,33798,Bill Brown Ford,4.7,766,4.8,110,33999, Black , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+305,2020 Ford Edge SEL,46155,Sam Pack's Five Star Ford Carrollton,4.8,2389,4.9,141,32000, Agate Black , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+306,2019 Ford Edge SEL,19440,Five Star Ford Dallas,4.7,373,4.7,193,29000, Magnetic , Ebony , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+307,2019 Ford Explorer XLT,32163,Bill Brown Ford,4.7,766,4.8,110,33999, Gray , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+308,2019 Ford F-150 XLT,23343,Garnet Ford,4.9,1677,4.8,424,43060, Agate Black Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+309,2018 Ford F-150 Lariat,85243,Uptown Ford Lincoln,4.8,430,4.8,816,38995, Magnetic Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+310,2021 Ford F-150 XL,21082,Lithia Springs Ford,4.7,316,4.8,79,41999, Gray Metallic , Black , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+311,2020 Ford Escape SEL,16325,Atchinson Ford,4.8,327,4.6,230,27000, Oxford White , Ebony Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,1.5L I3 12V GDI DOHC Turbo
+312,2019 Ford Escape Titanium,35792,Capitol Ford,4.2,71,4.7,264,29200, Ruby Red , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+313,2020 Ford EcoSport Titanium,17420,Appel Ford,4.7,189,4.7,62,25000, Moondust , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC
+314,2020 Ford Expedition Max Limited,61494,AutoNation Ford Valencia,4.6,1263,4.5,15,52995, Agate Black , – , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+315,2019 Ford F-150 XLT,59132,Power Ford,4.7,2377,4.8,424,41990, Green , Medium Light Camel , Four-wheel Drive ,Gasoline ,Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+316,2020 Ford Edge Titanium,20387,Pat Milliken Ford,4.9,1506,4.9,141,34927, Rapid Red Metallic Tinted Clearcoat , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+317,2020 Ford Edge SEL,16502,Bill Brown Ford,4.7,766,4.9,141,31990, Red , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+318,2019 Ford F-150 Lariat,38248,Apple Ford Lincoln Apple Valley,4.7,1606,4.8,424,46399, Magnetic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+319,2018 Ford F-150 XL,40485,Paul Miller Ford Mazda,4.8,956,4.8,816,35926, Shadow Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+320,2021 Ford F-150 XLT,19611,Larry H. Miller Ford Mesa,4.5,681,4.8,79,58644, Gray , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+321,2019 Ford F-150 XLT,23498,Columbia Ford Kia,4.8,2950,4.8,424,47977, Black , Medium Earth Gray , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+322,2019 Ford Edge SEL,10620,Varsity Ford,4.9,2264,4.7,193,30950, Burgundy , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+323,2020 Ford Expedition Limited,15300,Holiday Ford,4.8,253,4.9,27,67250, Agate Black , Ebony , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+324,2019 Ford Edge SEL,38958,Randall Reed's Planet Ford 635,4.5,514,4.7,193,27581, Oxford White , Dune , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+325,2021 Ford F-150 XL,19339,SouthWest Ford,3.7,13,4.8,79,47066, Iconic Silver Metallic , Black , Four-wheel Drive ,Diesel ,10-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel
+326,2020 Ford F-150 Lariat,18949,Greenway Ford,4.6,3288,4.8,219,58399, Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+327,2020 Ford F-150 XLT,16372,Bill Brown Ford,4.7,766,4.8,219,41990, Black , Black , Four-wheel Drive ,Gasoline ,Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+328,2018 Ford Escape SE,49037,Andy Mohr Ford,4.5,1768,4.7,578,23257, Ingot Silver , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+329,2019 Ford F-350 Limited,16038,Corwin Ford,4.7,766,4.7,48,85989, Stone Gray , Camelback , Four-wheel Drive ,Diesel ,Automatic,Intercooled Turbo Diesel V-8 6.7 L/406
+330,2020 Ford F-150 Lariat,18474,Luther North Country Ford Lincoln,4.8,3945,4.8,219,55995, Lead Foot , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+331,2019 Ford Escape Titanium,37038,Capitol Ford,4.2,71,4.7,264,29334, White Platinum , Medium Light Stone , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+332,2019 Ford Fusion Hybrid SE,45199,Bill Brown Ford,4.7,766,4.8,50,22995, Black , Ebony , Front-wheel Drive ,Hybrid ,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid
+333,2020 Ford Fusion SE,19624,Royal Oak Ford,4.8,1820,4.8,70,22125, Magnetic , Ebony , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+334,2018 Ford Explorer XLT,18545,Bell Ford,4.5,396,4.8,265,33450, Magnetic Metallic , Ebony Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+335,2019 Ford Mustang GT Premium,17800,Donley Ford - Mount Vernon,4.8,639,4.7,154,46853, Magnetic , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+336,2019 Ford Escape SE,45318,Apple Ford Lincoln Apple Valley,4.7,1606,4.7,264,23799, Magnetic , Charcoal Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+337,2019 Ford Expedition Platinum,47221,Five Star Ford Lewisville,4.9,1663,4.8,62,56000, Agate Black Metallic , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+338,2018 Ford Expedition Platinum,49948,AutoNation Ford Katy,4.4,2193,4.7,65,51497, Ruby Red Metallic Tinted Clearcoat , – , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+339,2020 Ford Edge ST,14555,Wayne Akers Ford,4.4,1399,4.9,141,43821, White , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.7L V6 24V GDI DOHC Twin Turbo
+340,2019 Ford Edge SEL,37693,Apple Ford Lincoln Apple Valley,4.7,1606,4.7,193,30499, Stone Gray , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+341,2019 Ford F-150 XLT,37084,Pat Milliken Ford,4.9,1506,4.8,424,37529, Oxford White , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+342,2018 Ford F-150 Lariat,45212,Jim Ellis Ford Sandy Springs,4.6,189,4.8,816,46990, Shadow Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+343,2018 Ford F-250 Lariat,36027,Anderson Ford,3.7,8,4.8,81,67333, Stone Gray Metallic , Black , Four-wheel Drive ,Diesel ,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+344,2020 Ford Escape Titanium,19367,Broadway Ford Hyundai on Military,4.8,1129,4.6,230,34691, Magnetic , Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+345,2019 Ford F-150 Lariat,58445,Lake Ford,4.7,3990,4.8,424,43695, Agate Black Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+346,2020 Ford Expedition XLT,23301,Five Star Ford Dallas,4.7,373,4.9,27,52000, Black Metallic , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+347,2020 Ford F-150 XLT,18213,Grand Prairie Ford,4.4,1311,4.8,219,39997, Magnetic , Black , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+348,2020 Ford Escape SEL,51638,Bill Brown Ford,4.7,766,4.6,230,25990, Green , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+349,2021 Ford F-150 Limited,19828,Bill Colwell Ford,4.8,450,4.8,79,75500, Antimatter Blue Metallic , Admiral Blue , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+350,2018 Ford Explorer XLT,35056,Joe Machens Capital City Ford,4.8,6452,4.8,265,36321, Ruby Red Metallic Tinted Clearcoat , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+351,2019 Ford Flex SEL,19319,Crest Ford,4.8,523,4.8,50,29000, Oxford White , Charcoal Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+352,2019 Ford Edge SEL,20320,Zeigler Ford Lincoln - Elkhart,4.3,154,4.7,193,32984, Black , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+353,2019 Ford F-150 Raptor,23398,Sam Pack's Five Star Ford Carrollton,4.8,2389,4.8,424,74500, Magnetic Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+354,2019 Ford Expedition XLT,32196,Five Star Ford,4.9,7919,4.8,62,47500, Stone Gray , Medium Stone , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+355,2020 Ford F-150 XLT,34824,LaFontaine Ford Lincoln,3.9,36,4.8,219,39015, Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+356,2020 Ford Expedition Max Limited,72916,Maxwell Ford,4.3,1216,4.5,15,44188, Agate Black , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+357,2019 Ford Edge Titanium,36626,Larson Ford,4.9,1087,4.7,193,34621, Ruby Red , Ebony , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+358,2020 Ford Fusion Titanium,66125,Hennessy Ford Lincoln Atlanta,4.5,1346,4.8,70,24600, Iconic Silver Metallic , Ebony , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+359,2019 Ford EcoSport SE,34194,San Tan Ford,4.7,1938,4.5,106,21833, Lightning Blue , Medium Stone , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.0L I3 12V GDI DOHC Turbo
+360,2020 Ford F-150 XLT,17779,Gene Messer Ford of Lubbock,4.4,758,4.8,219,48409, Stone Gray Metallic , Medium Earth Gray , Four-wheel Drive ,Gasoline ,Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+361,2018 Ford Escape Titanium,26306,Luther North Country Ford Lincoln,4.8,3945,4.7,578,29995, Shadow Black , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+362,2019 Ford F-250 Lariat,44818,Rochester Ford,4.6,284,4.5,100,53998, Black , Black , Four-wheel Drive ,E85 Flex Fuel ,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel
+363,2019 Ford Explorer XLT,33798,Bill Brown Ford,4.7,766,4.8,110,33999, Black , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+364,2020 Ford Edge SEL,46155,Sam Pack's Five Star Ford Carrollton,4.8,2389,4.9,141,32000, Agate Black , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+365,2019 Ford Edge SEL,19440,Five Star Ford Dallas,4.7,373,4.7,193,29000, Magnetic , Ebony , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+366,2019 Ford Explorer XLT,32163,Bill Brown Ford,4.7,766,4.8,110,33999, Gray , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+367,2019 Ford F-150 XLT,23343,Garnet Ford,4.9,1677,4.8,424,43060, Agate Black Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+368,2018 Ford F-150 Lariat,85243,Uptown Ford Lincoln,4.8,430,4.8,816,38995, Magnetic Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+369,2021 Ford F-150 XL,21082,Lithia Springs Ford,4.7,316,4.8,79,41999, Gray Metallic , Black , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+370,2020 Ford Escape SEL,16325,Atchinson Ford,4.8,327,4.6,230,27000, Oxford White , Ebony Black , All-wheel Drive ,Gasoline ,8-Speed Automatic,1.5L I3 12V GDI DOHC Turbo
+371,2019 Ford Escape Titanium,35792,Capitol Ford,4.2,71,4.7,264,29200, Ruby Red , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+372,2020 Ford EcoSport Titanium,17420,Appel Ford,4.7,189,4.7,62,25000, Moondust , Ebony Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC
+373,2020 Ford Expedition Max Limited,61494,AutoNation Ford Valencia,4.6,1263,4.5,15,52995, Agate Black , – , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+374,2019 Ford F-150 XLT,59132,Power Ford,4.7,2377,4.8,424,41990, Green , Medium Light Camel , Four-wheel Drive ,Gasoline ,Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+375,2020 Ford Edge Titanium,20387,Pat Milliken Ford,4.9,1506,4.9,141,34927, Rapid Red Metallic Tinted Clearcoat , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+376,2020 Ford Edge SEL,16502,Bill Brown Ford,4.7,766,4.9,141,31990, Red , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+377,2019 Ford F-150 Lariat,38248,Apple Ford Lincoln Apple Valley,4.7,1606,4.8,424,46399, Magnetic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+378,2018 Ford F-150 XL,40485,Paul Miller Ford Mazda,4.8,956,4.8,816,35926, Shadow Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+379,2021 Ford F-150 XLT,19611,Larry H. Miller Ford Mesa,4.5,681,4.8,79,58644, Gray , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+380,2019 Ford F-150 XLT,23498,Columbia Ford Kia,4.8,2950,4.8,424,47977, Black , Medium Earth Gray , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+381,2019 Ford Edge SEL,10620,Varsity Ford,4.9,2264,4.7,193,30950, Burgundy , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+382,2020 Ford Expedition Limited,15300,Holiday Ford,4.8,253,4.9,27,67250, Agate Black , Ebony , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+383,2019 Ford Edge SEL,38958,Randall Reed's Planet Ford 635,4.5,514,4.7,193,27581, Oxford White , Dune , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+384,2021 Ford F-150 XL,19339,SouthWest Ford,3.7,13,4.8,79,47066, Iconic Silver Metallic , Black , Four-wheel Drive ,Diesel ,10-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel
+385,2019 Ford Escape Titanium,37122,Apple Ford Lincoln Apple Valley,4.7,1606,4.7,264,29999, White Platinum , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+386,2017 Ford F-350 King Ranch,62737,Murray Ford Superstore,4.8,1138,4.8,90,72990, Blue Jeans Metallic , Java , Four-wheel Drive ,Diesel ,6-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel
+387,2021 Ford F-150 Lariat,19621,Rowe Ford Lincoln Hyundai,4.8,1448,4.8,79,61491, Blue , – , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+388,2018 Ford Explorer XLT,63093,Anderson Ford,4.5,408,4.8,265,27699, Ruby Red , Medium Stone , Front-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V MPFI DOHC
+389,2018 Ford F-150 Lariat,42199,Lake Ford,4.7,3990,4.8,816,47496, Lightning Blue , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+390,2021 Ford Ranger Lariat,13210,Rochester Ford,4.6,284,4.8,28,45998, Oxford White , Ebony , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+391,2018 Ford F-150 Lariat,58700,Lake Ford,4.7,3990,4.8,816,43998, Shadow Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+392,2021 Ford F-150 XLT,9184,Ed Koehn Ford of Wayland,4.4,55,4.8,79,49514, Blue , Medium Dark Slate , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+393,2019 Ford Escape SE,45400,Varsity Ford,4.9,2264,4.7,264,22250, Black , Charcoal Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+394,2020 Ford Ranger XLT,41918,All Star Ford,4.7,519,4.8,73,39288, Shadow Black , Ebony , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+395,2019 Ford F-150 Raptor,47259,Larry H. Miller Ford Mesa,4.5,681,4.8,424,74544, Magnetic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+396,2021 Ford F-150 XLT,17500,Anderson Ford - Kingman,4.3,96,4.8,79,48450, Iconic Silver Metallic , Medium Dark Slate , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+397,2018 Ford EcoSport SE,14100,Apple Ford Lincoln Apple Valley,4.7,1606,4.5,202,22599, Smoke , Ebony Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.0L I3 12V GDI DOHC Turbo
+398,2018 Ford Escape SE,53135,Banner Ford,4.4,159,4.7,578,21845, Shadow Black , Charcoal Black , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+399,2020 Ford Fusion Titanium,64611,Hennessy Ford Lincoln Atlanta,4.5,1346,4.8,70,24900, Oxford White , Ebony , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+400,2020 Ford Edge SEL,63261,Luther North Country Ford Lincoln,4.8,3945,4.9,141,27995, Agate Black , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+401,2020 Ford Fusion SE,46029,Mike Castrucci of Alexandria,4.2,95,4.8,70,25674, White , Ebony , All-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+402,2019 Ford F-150 Lariat,11262,Apple Ford Lincoln Apple Valley,4.7,1606,4.8,424,49999, Blue Jeans Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,5.0L V8 32V PDI DOHC
+403,2019 Ford Edge SEL,35112,Varsity Ford,4.9,2264,4.7,193,28310, Burgundy , Dune , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+404,2018 Ford Escape SE,42099,Tallahassee Ford Lincoln,4.3,73,4.7,578,21864, Ingot Silver , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+405,2017 Ford F-150 Lariat,85370,Five Star Ford Lewisville,4.9,1663,4.8,568,36750, Magnetic Metallic , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+406,2019 Ford F-150 Platinum,69514,Cleburne Ford,4.7,347,4.8,424,49988, Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+407,2018 Ford F-150 XLT,43139,AutoNation Ford Bellevue,4.5,742,4.8,816,39390, Shadow Black , – , Four-wheel Drive ,Gasoline ,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo
+408,2016 Ford F-150 King Ranch,64464,Ken Stoepel Ford,4.8,492,4.6,391,41420, Bronze Fire Metallic , Mesa , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+409,2020 Ford Edge SEL,11343,Pat Milliken Ford,4.9,1506,4.9,141,31337, Rapid Red Metallic Tinted Clearcoat , Ebony , All-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+410,2020 Ford Fusion SE,13672,Southgate Ford,4.6,465,4.8,70,24995, Agate Black , Ebony , Front-wheel Drive ,Gasoline ,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo
+411,2020 Ford Explorer XLT,54035,Larry H. Miller Ford Mesa,4.5,681,4.5,248,36888, Silver , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+412,2015 Ford F-150 Lariat,0,Phil Long Ford of Denver,4.7,2619,4.7,357,39991, Tuxedo Black Metallic , Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo
+413,2020 Ford Explorer XLT,61852,Grand Prairie Ford,4.4,1311,4.5,248,33359, Iconic Silver Metallic , Ebony , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+414,2017 Ford Escape Titanium,58397,Mills Ford Brainerd,4.7,296,4.7,748,22942, Shadow Black , Charcoal Black , Four-wheel Drive ,Gasoline ,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+415,2021 Honda Pilot Special Edition,10163,Hare Honda,3.9,131,4.8,63,43977, Platinum White Pearl , Black , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+416,2020 Ford Mustang EcoBoost Premium,41690,Auto Boutique,4.8,1047,4.9,68,27500, Red , – , Rear-wheel Drive ,Gasoline ,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo
+417,2021 Subaru Crosstrek Premium,11508,AutoSavvy Lindon,4.4,121,4.8,77,25500, Cool-Gray Khaki , Black , All-wheel Drive ,Gasoline ,Automatic CVT,2.0L H4 16V GDI DOHC
+418,2019 Lexus RX 350 ,29616,EchoPark Automotive New Orleans Delivery Center,2.0,1,4.8,102,40989, Nebula Gray Pearl , Brown , Front-wheel Drive ,Gasoline ,8-Speed Automatic,3.5L V6 24V PDI DOHC
+419,2021 Honda Pilot Special Edition,10563,Ed Martin Honda,4.8,959,4.8,63,43296, Steel Sapphire Metallic , Gray , All-wheel Drive ,Gasoline ,Automatic,Regular Unleaded V-6 3.5 L/212
+420,2018 Toyota Tundra SR5,43345,Driveline Used Cars Murrieta,4.1,34,4.8,198,37700, Cement , Black , Rear-wheel Drive ,Gasoline ,6-Speed Automatic,5.7L V8 32V MPFI DOHC
+421,2020 Acura MDX 3.5L,20803,Rusnak Volvo Cars,4.8,1240,4.9,50,38483, Majestic Black Pearl , Ebony , Front-wheel Drive ,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+422,2017 Acura ILX w/Premium Pkg,45830,AE of Miami,3.5,63,4.7,38,13950, Black , Ebony , Front-wheel Drive ,Gasoline ,8-Speed Automatic with Auto-Shift,2.4L I4 16V GDI DOHC
+423,2019 Jeep Cherokee Latitude Plus,21870,MotorWorld Pre-Owned,4.7,1800,4.6,568,27500, Diamond Black , Black , Four-wheel Drive ,Gasoline ,9-Speed Automatic,2.4L I4 16V MPFI SOHC
+424,2018 Subaru Crosstrek 2.0i Premium,61053,NW Group Auto Sales,1.0,2,4.8,343,24921, Crystal White Pearl , Black , All-wheel Drive ,Gasoline ,Automatic CVT,2.0L H4 16V GDI DOHC
+425,2021 Honda Pilot Special Edition,22250,Andy Mohr Honda,4.5,216,4.8,63,43969, Steel Sapphire Metallic , Gray , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+426,2015 BMW 328 i,48478,Ferco Motors,3.4,48,4.7,107,15899, White , Brown , Rear-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L 4-Cylinder DOHC 16V Turbocharged
+427,2020 Volkswagen Tiguan 2.0T S,34076,Shottenkirk Toyota of Weatherford,4.2,1630,4.7,59,22617, Pure White , Titan Black , Front-wheel Drive ,Gasoline ,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo
+428,2021 Chrysler 300 S,19229,Auto Boutique,4.8,1047,5.0,3,30000, Gloss Black , Black , Rear-wheel Drive ,Gasoline ,8-Speed Automatic,3.6L V6 24V MPFI DOHC
+429,2020 Jeep Cherokee Limited,12286,Eide Chrysler,4.7,202,4.8,152,32000, Granite Crystal Clearcoat Metallic , Black , Four-wheel Drive ,Gasoline ,9-Speed Automatic,3.2L V6 24V MPFI DOHC
+430,2021 Subaru Forester Sport,10859,AutoSavvy Boise,4.6,96,4.9,109,29500, Ice Silver Metallic , Gray , All-wheel Drive ,Gasoline ,Automatic CVT,2.5L H4 16V GDI DOHC
+431,2017 Acura MDX 3.5L,57107,Frank Leta Acura,4.6,383,4.6,133,31895, Crystal Black Pearl , Parchment , All-wheel Drive ,Gasoline ,9-Speed Automatic,3.5L V6 24V GDI SOHC
+432,2018 Ford F-150 Lariat,32929,Giant Chevrolet,4.8,131,4.8,816,49985, Shadow Black , Black , Four-wheel Drive ,Gasoline ,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo
+433,2020 Nissan Murano SV,41010,EchoPark Automotive Johnson City Delivery Center,3.7,3,4.9,76,27289, Deep Blue Pearl , Graphite , Front-wheel Drive ,Gasoline ,Automatic CVT,3.5L V6 24V MPFI DOHC
